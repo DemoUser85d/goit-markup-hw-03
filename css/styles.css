@@ -93,13 +93,13 @@ a {
 
 .page-header-container {
     display: flex;
-    align-items :center;
+    align-items: center;
     justify-content: space-between;
 }
 
 .main-nav {
     display: flex;
-    align-items:center;
+    align-items: center;
 }
 
 .main-menu,
