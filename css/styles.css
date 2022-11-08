@@ -272,6 +272,9 @@ a {
     text-transform: uppercase;
     color: var(--font-color-white);
     margin-bottom: 30px;
+    width: 696px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 /* -------------------- /HERO -------------------- */
